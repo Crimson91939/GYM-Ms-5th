@@ -1,0 +1,16 @@
+it is a laravel and mysql project
+
+has()
+{
+    admin
+    gyms
+    members
+}
+
+authentication
+multi-auth
+custom login,register
+
+MVC model
+
+5th sem final project
